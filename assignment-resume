@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paavni</title>
+</head>
+<body>
+  <u>  <h1>Paavni</h1></u>
+  <img src="sunglasses_face_icon_256262.png" height="100px">
+  <h2>Education
+
+  </h2>
+  <ul>
+    <li><b>Class X(CBSE): 97.2%</b></li>
+    <li><b>Class XII(CBSE): 80%</b></li>
+    <li><B>B.E (First Sem): 9.19 CGPA</B></li>
+  </ul>
+    
+  <H2>
+    Skills
+  </H2>
+  <ul>
+    <li><b>Frontend:</b> HTML, CSS, Javascript</li>
+    <li><b>Programming Languages:</b> Python, C</li>
+    <li><b>Others:</b> Git, Git Bash</li>
+  </ul>
+  <h2>
+    Hobbies
+  </h2>
+  <ul>
+    <li>Listening to music</li>
+    <li>Reading </li>
+    <li>Painting</li>
+  </ul>
+  <h2>
+    Contacts
+  </h2>
+  <ul>
+    <li><B>Email:</B> paavni0259@gmail.com</li>
+    <li><a href="https://www.linkedin.com/in/paavni-sethi-b17111218/">LinkedIn</a></li>
+  </ul>
+</body>
+</html>
