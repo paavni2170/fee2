@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Review</title>
+</head>
+<body>
+    <center><h1>Book Review Blog </h1></center>
+    <center><h3>"Turning Pages, Turning Minds: Insightful Reviews for Avid Readers"</h3></center>
+    <nav>
+        <ul>
+            <li><a href="home.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="review.html">Review</a></li>
+        </ul>
+    </nav>
+    <hr>
+    <center><h2>Welcome to the Book Review Blog!</h2></center>
+    <center><img src="book.jpg" height="350px"></center>
+    <center><h2>Book Review: The Alchemist</h2></center>
+    <center><h3>Author: Paulo Coelho</h3></center>
+    <center><h3>Genre: Fiction</h3></center>
+    <center><h3>Rating: 4.5/5</h3></center>
+    <center><h3>Review:</h3></center>
+    <center><p>The Alchemist is a novel by Brazilian author Paulo Coelho that was first published in 1988. Originally written in Portuguese, it became an international bestseller translated into some 70 languages as of 2016. An allegorical novel, The Alchemist follows a young Andalusian shepherd in his journey to the pyramids of Egypt, after having a recurring dream of finding a treasure there.</p></center>
+    <center><p>The book is a must-read for anyone who is looking for inspiration and motivation. It is a simple yet profound tale of a young shepherd named Santiago who goes on a journey to find a hidden treasure. Along the way, he learns valuable lessons about life, love, and the importance of following one's dreams. The Alchemist is a book that will make you think about your own life and the choices you make. It is a story that will stay with you long after you have finished reading it.</p></center>
+
+<!--second book-->
+    <center><img src="book2.jpg" height="350px"></center>
+    <center><h2>Book Review: The Great Gatsby</h2></center>
+    <center><h3>Author: F. Scott Fitzgerald</h3></center>
+    <center><h3>Genre: Fiction</h3></center>
+    <center><h3>Rating: 4/5</h3></center>
+    <center><h3>Review:</h3></center>
+    <center><p>The Great Gatsby is a novel by American author F. Scott Fitzgerald that was first published in 1925. Set in the Jazz Age on Long Island, the novel depicts narrator Nick Carraway's interactions with mysterious millionaire Jay Gatsby and Gatsby's obsession to reunite with his former lover, Daisy Buchanan.</p></center>
+    <center><p>The Great Gatsby is a classic novel that explores themes of wealth, love, and the American Dream. It is a beautifully written story that captures the glamour and excess of the 1920s. The characters are complex and flawed, and the plot is full of twists and turns. The Great Gatsby is a timeless tale that continues to resonate with readers today.</p></center>
+    <center><p>Overall, The Great Gatsby is a must-read for anyone who enjoys classic literature. It is a novel that will make you think about the nature of love, wealth, and the pursuit of happiness. It is a story that will stay with you long after you have finished reading it.</p></center>
+    <center><p>So, what are you waiting for? Pick up a copy of The Great Gatsby and start reading today!</p></center>
+    
+    <!--third book-->
+    <center><img src="book3.jpg" height="350px"></center>
+    <center><h2>Book Review: To Kill a Mockingbird</h2></center>
+    <center><h3>Author: Harper Lee</h3></center>
+    <center><h3>Genre: Fiction</h3></center>
+    <center><h3>Rating: 5/5</h3></center>
+    <center><h3>Review:</h3></center>
+    <center><p>To Kill a Mockingbird by Harper Lee centres on Atticus Finch's attempts to prove the innocence of Tom Robinson, a black man who has been wrongly accused of raping a white woman in 1930s Alabama. The novel is narrated by Finch's daughter, Scout, who provides a child's perspective on the events that unfold in the story.
+        In many ways, this book is a great example of how literature can both teach and delight, which makes it a great book for a budding novelist to read. Another thing worth analyzing from a fiction-writing perspective is how Scout personally handles the issues that are going to be raised in the book.
+    </p></center>
+
+    <footer>
+        <hr>
+        
+        <center><p>Happy reading!</p></center>
+    <center><p> - The Book Review Blog Team</p></center>
+        <center><p>© 2024 Book Review Blog. All Rights Reserved.</p></center>
+
+
+    </footer>
+</body>
+</html>
