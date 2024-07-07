@@ -1,1 +1,1 @@
-allthe work done in fee-2 class.
+all the work done in fee-2 class.
